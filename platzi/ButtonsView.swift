@@ -23,11 +23,9 @@ struct ButtonsView: View {
                     .foregroundColor(.white)
                     .background(Color.blue)
                     .cornerRadius(10)
-                    
             }
 
         }
-        
     }
     func greeting() {
         print("saludando desde un metodo")

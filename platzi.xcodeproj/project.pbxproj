@@ -13,6 +13,7 @@
 		D1EBB6872977417100D46528 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1EBB6862977417100D46528 /* Preview Assets.xcassets */; };
 		D1EBB69029775B5700D46528 /* TextModView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB68F29775B5700D46528 /* TextModView.swift */; };
 		D1EBB69229775F3100D46528 /* ButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB69129775F3100D46528 /* ButtonsView.swift */; };
+		D1EBB6942977639B00D46528 /* ImagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB6932977639B00D46528 /* ImagesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D1EBB68D2977448700D46528 /* variablesConstants.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = variablesConstants.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D1EBB68F29775B5700D46528 /* TextModView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextModView.swift; sourceTree = "<group>"; };
 		D1EBB69129775F3100D46528 /* ButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsView.swift; sourceTree = "<group>"; };
+		D1EBB6932977639B00D46528 /* ImagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D1EBB6852977417100D46528 /* Preview Content */,
 				D1EBB68F29775B5700D46528 /* TextModView.swift */,
 				D1EBB69129775F3100D46528 /* ButtonsView.swift */,
+				D1EBB6932977639B00D46528 /* ImagesView.swift */,
 			);
 			path = platzi;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				D1EBB6802977417000D46528 /* platziApp.swift in Sources */,
 				D1EBB69229775F3100D46528 /* ButtonsView.swift in Sources */,
 				D1EBB69029775B5700D46528 /* TextModView.swift in Sources */,
+				D1EBB6942977639B00D46528 /* ImagesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
