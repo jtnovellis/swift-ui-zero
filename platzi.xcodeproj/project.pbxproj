@@ -14,6 +14,10 @@
 		D1EBB69029775B5700D46528 /* TextModView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB68F29775B5700D46528 /* TextModView.swift */; };
 		D1EBB69229775F3100D46528 /* ButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB69129775F3100D46528 /* ButtonsView.swift */; };
 		D1EBB6942977639B00D46528 /* ImagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB6932977639B00D46528 /* ImagesView.swift */; };
+		D1EBB696297766FB00D46528 /* InputTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB695297766FB00D46528 /* InputTextView.swift */; };
+		D1EBB69829776A4900D46528 /* DividersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB69729776A4900D46528 /* DividersView.swift */; };
+		D1EBB69A29776C7100D46528 /* ContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB69929776C7100D46528 /* ContainerView.swift */; };
+		D1EBB69C29776EC300D46528 /* ChallengeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EBB69B29776EC300D46528 /* ChallengeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		D1EBB68F29775B5700D46528 /* TextModView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextModView.swift; sourceTree = "<group>"; };
 		D1EBB69129775F3100D46528 /* ButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsView.swift; sourceTree = "<group>"; };
 		D1EBB6932977639B00D46528 /* ImagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesView.swift; sourceTree = "<group>"; };
+		D1EBB695297766FB00D46528 /* InputTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputTextView.swift; sourceTree = "<group>"; };
+		D1EBB69729776A4900D46528 /* DividersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividersView.swift; sourceTree = "<group>"; };
+		D1EBB69929776C7100D46528 /* ContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerView.swift; sourceTree = "<group>"; };
+		D1EBB69B29776EC300D46528 /* ChallengeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +74,10 @@
 				D1EBB68F29775B5700D46528 /* TextModView.swift */,
 				D1EBB69129775F3100D46528 /* ButtonsView.swift */,
 				D1EBB6932977639B00D46528 /* ImagesView.swift */,
+				D1EBB695297766FB00D46528 /* InputTextView.swift */,
+				D1EBB69729776A4900D46528 /* DividersView.swift */,
+				D1EBB69929776C7100D46528 /* ContainerView.swift */,
+				D1EBB69B29776EC300D46528 /* ChallengeView.swift */,
 			);
 			path = platzi;
 			sourceTree = "<group>";
@@ -156,8 +168,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1EBB696297766FB00D46528 /* InputTextView.swift in Sources */,
+				D1EBB69829776A4900D46528 /* DividersView.swift in Sources */,
 				D1EBB6822977417000D46528 /* ContentView.swift in Sources */,
 				D1EBB6802977417000D46528 /* platziApp.swift in Sources */,
+				D1EBB69A29776C7100D46528 /* ContainerView.swift in Sources */,
+				D1EBB69C29776EC300D46528 /* ChallengeView.swift in Sources */,
 				D1EBB69229775F3100D46528 /* ButtonsView.swift in Sources */,
 				D1EBB69029775B5700D46528 /* TextModView.swift in Sources */,
 				D1EBB6942977639B00D46528 /* ImagesView.swift in Sources */,
